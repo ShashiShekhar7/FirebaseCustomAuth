@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "569906930595",
+    "firebase_url": "https://phone-auth-211c3.firebaseio.com",
+    "project_id": "phone-auth-211c3",
+    "storage_bucket": "phone-auth-211c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569906930595:android:fd0d1a35463aaa8faaf016",
+        "android_client_info": {
+          "package_name": "com.example.firebasecustomauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569906930595-orkhv798p2gjup9dbpn17ag4c3hpt10h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHkHJLG0sOVF5E2VoPaNKZOpg36GW3bg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569906930595-orkhv798p2gjup9dbpn17ag4c3hpt10h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
